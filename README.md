@@ -3,8 +3,8 @@ A simple Java Swing implementation of the classic combinatorial game often known
 
 Features:
 
-Java Swing GUI with colored grid and sidebar for status + log
-Adjustable board size on startup
-Turn tracking and move logging
-Automatic detection of losing square and replay prompt
-Simple AI opponent with random move selection avoiding poisoned square
+1. Java Swing GUI with colored grid and sidebar for status + log
+2. Adjustable board size on startup
+3. Turn tracking and move logging
+4. Automatic detection of losing square and replay prompt
+5. Simple AI opponent with random move selection avoiding poisoned square
