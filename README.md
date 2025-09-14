@@ -1,2 +1,10 @@
 # YockyChoccy
-Developed a simple game that allows players to play against AI where they must choose and cut portions of chocolate bar avoiding the SOAP portion 
+A simple Java Swing implementation of the classic combinatorial game often known as Chomp. Players take turns “eating” (disabling) a chosen square and every square below and to the right of it. The poisoned “soap” square must be avoided. Whoever is forced to take it loses. The game offers selectable board sizes (5×5, 6×6, 7×7), a live status display, and a scrolling move log. Includes a very basic computer opponent that chooses a random valid move.
+
+Features:
+
+Java Swing GUI with colored grid and sidebar for status + log
+Adjustable board size on startup
+Turn tracking and move logging
+Automatic detection of losing square and replay prompt
+Simple AI opponent with random move selection avoiding poisoned square
