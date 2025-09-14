@@ -1,0 +1,22 @@
+
+How to run from shell window:
+
+-> Open console (Terminal/Command.exe etc.)
+-> Navigate to the destination folder "CS2005_A1_SammamAhmed_202144713"
+
+	How to navigate: type 
+				cd "......(File path)....../CS2005_A1_SammamAhmed_202144713"
+
+-> Type 
+
+	javac *.java
+
+   and press ENTER 
+
+-> Type
+
+	java Main 
+
+   and press ENTER
+
+**Don't forget, if you edit the code then recompile it before running**
